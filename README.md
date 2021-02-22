@@ -29,23 +29,20 @@ dependencies:
 
 3) open the terminal of anaconda and find the cv.yml file
 
-4) run 
+4) run: 
 conda env create --file cv.yml  
 
-5) run
+5) run: 
 conda activate compvis
 
-6) run
+6) run: 
 jupyter lab
 
-the workplace will open in your browser. for the futur use of jupyter lab, open your conda terminal and run
+the workplace will open in your browser. for the futur use of jupyter lab, open your conda terminal and run:
 conda activate cv
-and then run
+
+and then run: 
 jupyter notebook
 
 
 
-
-
-
-create the environment 
