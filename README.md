@@ -44,5 +44,4 @@ conda activate cv
 and then run: 
 jupyter notebook
 
-
-
+![alt text](https://github.com/shirlybittan/Tracking_juggling_balls/blob/main/project%20poster.jpg )
